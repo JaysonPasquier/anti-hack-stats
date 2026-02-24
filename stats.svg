@@ -2,9 +2,9 @@
 <svg width="600" height="400" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:rgb(182,90,9);stop-opacity:1" />
-      <stop offset="50%" style="stop-color:rgb(212,120,39);stop-opacity:1" />
-      <stop offset="100%" style="stop-color:rgb(252,160,79);stop-opacity:1" />
+      <stop offset="0%" style="stop-color:rgb(200, 80, 0);stop-opacity:1" />
+      <stop offset="50%" style="stop-color:rgb(255, 115, 0);stop-opacity:1" />
+      <stop offset="100%" style="stop-color:rgb(255, 150, 50);stop-opacity:1" />
     </linearGradient>
     <filter id="shadow">
       <feDropShadow dx="0" dy="4" stdDeviation="6" flood-opacity="0.3"/>
@@ -498,7 +498,7 @@
 <path transform="translate(658,24)" d="m0 0h9l-2 2-12 1 1-2z" fill="#5F5F5D"/></g></g>
 
   <!-- Bot Name -->
-  <text x="150" y="75" font-family="'Segoe UI', Arial, sans-serif" font-size="28" font-weight="700" fill="rgb(182,90,9)">
+  <text x="150" y="75" font-family="'Segoe UI', Arial, sans-serif" font-size="28" font-weight="700" fill="rgb(200, 80, 0)">
     Fugu-Security
   </text>
   <text x="150" y="100" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="#666">
@@ -507,52 +507,52 @@
 
   <!-- Stats Grid -->
   <!-- Semaine -->
-  <rect x="40" y="140" width="160" height="100" fill="rgb(212,120,39)" fill-opacity="0.08" rx="10"/>
-  <text x="60" y="165" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="600" fill="rgb(212,120,39)">
+  <rect x="40" y="140" width="160" height="100" fill="rgb(255, 115, 0)" fill-opacity="0.08" rx="10"/>
+  <text x="60" y="165" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="600" fill="rgb(255, 115, 0)">
     SEMAINE
   </text>
-  <text x="60" y="195" font-family="'Segoe UI', Arial, sans-serif" font-size="24" font-weight="700" fill="rgb(182,90,9)">
-    10
+  <text x="60" y="195" font-family="'Segoe UI', Arial, sans-serif" font-size="24" font-weight="700" fill="rgb(200, 80, 0)">
+    0
   </text>
   <text x="60" y="215" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#666">
     messages supprimés
   </text>
 
   <!-- Mois -->
-  <rect x="220" y="140" width="160" height="100" fill="rgb(212,120,39)" fill-opacity="0.08" rx="10"/>
-  <text x="240" y="165" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="600" fill="rgb(212,120,39)">
+  <rect x="220" y="140" width="160" height="100" fill="rgb(255, 115, 0)" fill-opacity="0.08" rx="10"/>
+  <text x="240" y="165" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="600" fill="rgb(255, 115, 0)">
     MOIS
   </text>
-  <text x="240" y="195" font-family="'Segoe UI', Arial, sans-serif" font-size="24" font-weight="700" fill="rgb(182,90,9)">
-    35
+  <text x="240" y="195" font-family="'Segoe UI', Arial, sans-serif" font-size="24" font-weight="700" fill="rgb(200, 80, 0)">
+    0
   </text>
   <text x="240" y="215" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#666">
     messages supprimés
   </text>
 
   <!-- Année -->
-  <rect x="400" y="140" width="160" height="100" fill="rgb(212,120,39)" fill-opacity="0.08" rx="10"/>
-  <text x="420" y="165" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="600" fill="rgb(212,120,39)">
+  <rect x="400" y="140" width="160" height="100" fill="rgb(255, 115, 0)" fill-opacity="0.08" rx="10"/>
+  <text x="420" y="165" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="600" fill="rgb(255, 115, 0)">
     ANNÉE
   </text>
-  <text x="420" y="195" font-family="'Segoe UI', Arial, sans-serif" font-size="24" font-weight="700" fill="rgb(182,90,9)">
-    35
+  <text x="420" y="195" font-family="'Segoe UI', Arial, sans-serif" font-size="24" font-weight="700" fill="rgb(200, 80, 0)">
+    0
   </text>
   <text x="420" y="215" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#666">
     messages supprimés
   </text>
 
   <!-- Total Bar -->
-  <rect x="40" y="260" width="520" height="80" fill="rgb(212,120,39)" fill-opacity="0.12" rx="10"/>
-  <text x="60" y="285" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="600" fill="rgb(212,120,39)">
+  <rect x="40" y="260" width="520" height="80" fill="rgb(255, 115, 0)" fill-opacity="0.12" rx="10"/>
+  <text x="60" y="285" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="600" fill="rgb(255, 115, 0)">
     TOTAL
   </text>
-  <text x="60" y="315" font-family="'Segoe UI', Arial, sans-serif" font-size="20" font-weight="700" fill="rgb(182,90,9)">
-    35 messages supprimés
+  <text x="60" y="315" font-family="'Segoe UI', Arial, sans-serif" font-size="20" font-weight="700" fill="rgb(200, 80, 0)">
+    0 messages supprimés
   </text>
 
   <!-- Footer -->
   <text x="300" y="370" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#999" text-anchor="middle">
-    Dernière mise à jour: 24/02/2026 13:00
+    Dernière mise à jour: 24/02/2026 15:23
   </text>
 </svg>
