@@ -512,7 +512,7 @@
     SEMAINE
   </text>
   <text x="60" y="195" font-family="'Segoe UI', Arial, sans-serif" font-size="24" font-weight="700" fill="rgb(200, 80, 0)">
-    20
+    21
   </text>
   <text x="60" y="215" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#666">
     messages supprimés
@@ -524,7 +524,7 @@
     MOIS
   </text>
   <text x="240" y="195" font-family="'Segoe UI', Arial, sans-serif" font-size="24" font-weight="700" fill="rgb(200, 80, 0)">
-    20
+    21
   </text>
   <text x="240" y="215" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#666">
     messages supprimés
@@ -536,7 +536,7 @@
     ANNÉE
   </text>
   <text x="420" y="195" font-family="'Segoe UI', Arial, sans-serif" font-size="24" font-weight="700" fill="rgb(200, 80, 0)">
-    106
+    107
   </text>
   <text x="420" y="215" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#666">
     messages supprimés
@@ -548,11 +548,11 @@
     TOTAL
   </text>
   <text x="60" y="315" font-family="'Segoe UI', Arial, sans-serif" font-size="20" font-weight="700" fill="rgb(200, 80, 0)">
-    106 messages supprimés
+    107 messages supprimés
   </text>
 
   <!-- Footer -->
   <text x="300" y="370" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#999" text-anchor="middle">
-    Dernière mise à jour: 09/03/2026 11:25
+    Dernière mise à jour: 09/03/2026 14:58
   </text>
 </svg>
